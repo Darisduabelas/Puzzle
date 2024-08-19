@@ -1,0 +1,7 @@
+QUESTION 1
+1 + 2 + 9 = N
+
+QUESTION 2
+N + 2 + 10 = X
+
+find N and find X !!
